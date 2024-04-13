@@ -1,3 +1,4 @@
+# used gimp to create a background free gif.
 import turtle
 
 wn = turtle.Screen()
